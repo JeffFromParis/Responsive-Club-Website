@@ -1,0 +1,24 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    background-color: rgb(255, 160, 122);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(41, 121, 114);
+}
+
+main {
+
+}
+
+footer {
+    background-color: rgb(41, 121, 114);
+}
